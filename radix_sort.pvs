@@ -15,7 +15,7 @@ radix_sort
 
   BEGIN
 
-IMPORTING sorting, ints@mod_lems
+IMPORTING sorting
 
 % d_nth computes the dth digit in the decimal representation of n
   d_nth(n, d : nat) : RECURSIVE below[10] =
